@@ -47,7 +47,7 @@
 
 [NotionAI](https://www.notion.so/) 偏重工作空间，团队合作，笔记，文档
 
-[Claude](https://claude.com) 强劲的AI助手
+[Claude](https://claude.ai) 强劲的AI助手
 
 [Character](https://beta.character.ai/)  模拟角色对话，一众名人都在其中
 
@@ -165,13 +165,19 @@
 
 [OpenBB](https://github.com/OpenBB-finance/OpenBB) 强大免费的金融数据终端，为量化交易者提供了一个完整的市场数据分析平台
 
-[TradingAgents](https://github.com/hsliuping/TradingAgents-CN) 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+[TradingAgents](https://github.com/TauricResearch/TradingAgents)  多智能体 LLM 金融交易框架，模拟了真实交易公司的运作动态
+
+[TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) TradingAgents中文增强版
 
 [CrewAI](https://crewai.com) 多智能体协作的开源框架，专门用于编排和协调多个 AI Agent 进行协作
 
 [Pydantic AI](https://github.com/pydantic/pydantic-ai) 下一代类型安全的AI Agent框架
 
 [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) 一键生成沉浸式多智能体互动课堂
+
+[DeepTutor](https://github.com/HKUDS/DeepTutor) 智能体原生的个性化辅导
+
+[Cofounder](https://github.com/nraiden/cofounder) 全栈AI应用构建器，辅助开发者自动生成完整的应用程序
 
 
 ## 智能体平台
@@ -304,9 +310,17 @@
 
 [Neo4J](https://neo4j.com) 图数据库, 通过不同知识的关联性形成一个网状的知识结构
 
+[GraphRAG](https://github.com/microsoft/graphrag) 基于图结构的检索增强生成技术，其核心在于将非结构化数据转化为知识图谱
+
 [Graphify](https://github.com/safishamsi/graphify) 一行命令把任意文件夹变成知识图谱
 
-[Zilliz Cloud](https://zilliz.com.cn) Milvus向量数据库
+[Milvus](https://milvus.io/zh) 一个为 GenAI 应用程序构建的开源向量数据库
+
+[Zilliz Cloud](https://cloud.zilliz.com.cn) Milvus向量云数据库
+
+[WorldRouter](https://worldclaw.ai/#world-router) 特朗普家族加密项目 WLFI 与 WorldClaw 合作推出，用户可通过单一账户访问300多个 AI 模型
+
+[Obsidian](https://obsidian.md) Obsidian 是一款基于 Markdown 文件的个人知识库与笔记管理工具，主要用于知识整理、笔记记录和构建个人知识体系。
 
 
 ## Skills
@@ -504,6 +518,10 @@
 
 [Replit](https://replit.com) 在线集成开发环境（IDE）,集成代码生成、调试及解释功能
 
+[CLI Anything](https://github.com/HKUDS/CLI-Anything) 让所有软件都能被 Agent 驱动
+
+[Open CLI](https://github.com/jackwener/opencli) 将任何网站、本地 CLI 或 Electron 应用变成命令行工具
+
 
 ## 前端开发
 [v0](https://v0.app) vercel团队开发的前端用户界面生成工具
@@ -642,7 +660,6 @@
 
 [腾讯智影](https://zenvideo.qq.com/) 智能视频创作工具，数字人播报，素材，文本生成视频等
 
-
 [DeepFaceLive](https://github.com/iperov/DeepFaceLive) 视频直播聊天实时AI换脸
 
 [Clipchamp](https://clipchamp.com/en) 微软旗下的视频剪辑软件
@@ -674,6 +691,8 @@
 [Text2Video-Zero](https://github.com/picsart-ai-research/text2video-zero) 使用文本描述生成视频
 
 [Wav2Lip](https://github.com/Rudrabha/Wav2Lip)  基于GAN的唇形动作迁移算法，实现生成的视频人物口型与输入语音同步
+
+[Clypra](https://github.com/AIEraDev/Clypra) 开源视频编辑器 
 
 
 ## 视频动画
